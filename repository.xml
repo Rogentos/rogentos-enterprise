@@ -1,7 +1,7 @@
 <repositories xmlns="" version="1.0">
 <repo quality="experimental" status="unofficial">
-<name>Rogentos-enterprise</name>
-<description>Rogentos-enterprise ebuilds</description>
+<name>rogentos-enterprise</name>
+<description>rogentos-enterprise ebuilds</description>
 <homepage>
 https://github.com/BlackNoxis/Rogento/wiki/
 </homepage>
